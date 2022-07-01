@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ipad",
+    "description": "expensive",
+    "price": 2000
+  },
+  {
+    "name": "iphone",
+    "description": "expensive",
+    "price": 2000
+  },
+  {
+    "name": "imac",
+    "description": "expensive",
+    "price": 3000
+  }
+]
